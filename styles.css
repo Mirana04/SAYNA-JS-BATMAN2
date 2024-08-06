@@ -1,0 +1,8 @@
+.background-container {
+    background-image: url('./Assets/Illustrations/Batgame_1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    color: black;
+}
